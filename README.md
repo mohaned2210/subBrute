@@ -1,6 +1,9 @@
 # subBrute
 brute multi domain
+```
 اللغة العربية في اخر الصفحة
+```
+```
 Modifications:
 1- can the input file contain multi domain.
 2- you can add resolver file
@@ -8,7 +11,9 @@ Modifications:
 4- more useragent
 5- faster
 6- Estimated finish time, update every 5 m
+```
 installation:
+
 ```
 git clone https://github.com/aashishsec/subBruter.git
 cd subBruter
